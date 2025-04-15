@@ -89,13 +89,3 @@ Author
 
 ________________________________________
 
-Brief description of Battleship project in the STAR format:
-Situation:
-I developed a desktop-based version of the classic Battleship game using JavaFX. The goal was to create a fully functional, multiplayer game that supports real-time play, AI testing, and an interactive user interface. The game also needed to be modular for future enhancements and easy testing.
-Task:
-I was responsible for implementing core gameplay mechanics, including the drag-and-drop ship placement system, multiplayer functionality through sockets, AI for positioning logic, and various UI elements like error popups and real-time game feedback.
-Action:
-I used Java 8 and JavaFX to build the front-end and back-end of the game. The application supports drag-and-drop functionality for placing ships, multiplayer via LAN connections, and real-time updates on game status like timer, score, and hit/miss feedback. Additionally, I implemented JUnit tests for game logic to ensure accuracy in score calculation, AI behavior, and multiplayer synchronization.
-Result:
-The result is a fully functional Battleship game with multiplayer support, real-time feedback, and comprehensive test coverage. The game features an intuitive drag-and-drop UI, robust gameplay, and multiplayer LAN capabilities. The project is now available on GitHub for further contributions and enhancements.
-
