@@ -85,7 +85,7 @@ Testing
 ○	Orientation (horizontal/vertical) checks
 ○	Multiplayer connection validation
 ________________________________________
-Author
+Author: Zino
 
 ________________________________________
 
